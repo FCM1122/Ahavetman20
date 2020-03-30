@@ -2,6 +2,7 @@
 // @name         FCM1
 // @namespace    http://tampermonkey.net/
 // @version      0.1
+// @updateURL    https://github.com/FCM1122/Ahavetman20/blob/master/Geheime%20shizzel/FCM1.js
 // @description  Gemaakt door Joep!
 // @author       Futcoinmaker
 // @match        https://www.easports.com/nl/fifa/ultimate-team/web-app/*
